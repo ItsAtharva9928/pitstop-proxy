@@ -1,0 +1,5 @@
+name = "pitstop-proxy"
+main = ".agents/proxy-worker.js"
+compatibility_date = "2024-03-20"
+
+# Optional: You can remove or adjust these if you want to use different features.
